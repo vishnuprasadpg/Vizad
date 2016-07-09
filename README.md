@@ -31,4 +31,4 @@ echo "<a href='".$authurl."'>Connect to Quickbooks Account</a>";
 
 ```
 
-#### Check out src/example for sample implementation
+#### Check out example directory for sample implementation
