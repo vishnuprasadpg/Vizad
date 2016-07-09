@@ -5,8 +5,6 @@
 
 ```php
 
-<?php
-
 define('QB_CUSTOMER_ID', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 define('QB_CUSTOMER_SECRET', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
