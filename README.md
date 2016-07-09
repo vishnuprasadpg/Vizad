@@ -23,3 +23,5 @@ $authurl = $intuitClient->getAuthorizationUrl($temporaryCredentials);
 echo "<a href='".$authurl."'>Connect to Quickbooks Account</a>";
 
 ```
+
+#### Check out src/example for sample implementation
