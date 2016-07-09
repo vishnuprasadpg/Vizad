@@ -1,6 +1,7 @@
 {
     "name": "vizad/intuit",
     "description": "OAuth 1.0 Client for Intuit using The PHP League OAuth1-Client",
+    "license": "MIT",
     "require": {
         "php": ">=5.4.0",
         "league/oauth1-client": "~1.2"

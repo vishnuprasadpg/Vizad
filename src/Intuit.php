@@ -19,8 +19,8 @@ use League\OAuth1\Client\Signature\SignatureInterface;
  *
  * ~~~
  * use Vizad\Intuit;
- * define('QB_CUSTOMER_ID', 'qyprdRYZP6xkgNyBje3oieXX1XdsqF');
- * define('QB_CUSTOMER_SECRET', 'yZZl2YnMa84kiVg1VO8PVilrWmP75OGikwz0uyYT');
+ * define('QB_CUSTOMER_ID', 'xxxxxxxxxxxxxxxxxxxxxxxxxxx');
+ * define('QB_CUSTOMER_SECRET', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
  * 
  * $intuitClient = new Intuit([
  *             'identifier'   => QB_CUSTOMER_ID,
@@ -37,7 +37,7 @@ use League\OAuth1\Client\Signature\SignatureInterface;
  * @see https://developer.intuit.com/blog/2015/02/19/oauth-for-intuit-demystified
  * @see https://developer.intuit.com/docs/0100_accounting/0050_your_first_request/0200_first_request_with_the_api_explorer
  *
- * @author Vishnu Prasad <vishnuprasad@gmail.com>
+ * @author Vishnu Prasad <vishnuprasad.pg@gmail.com>
  *
  */
 
