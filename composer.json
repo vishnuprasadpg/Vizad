@@ -1,0 +1,20 @@
+{
+    "name": "vizad/intuit",
+    "description": "OAuth Client for Intuit",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "league/oauth1-client": "~1.2"
+    },
+    "authors": [
+        {
+            "name": "Vishnu",
+            "email": "vishnuprasad.pg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vizad\\": "src/"
+        }
+    }
+}
