@@ -1,11 +1,16 @@
 {
     "name": "vizad/intuit",
-    "description": "OAuth Client for Intuit",
-    "license": "MIT",
+    "description": "OAuth 1.0 Client for Intuit using The PHP League OAuth1-Client",
     "require": {
         "php": ">=5.4.0",
         "league/oauth1-client": "~1.2"
     },
+    "keywords": [
+        "oauth",
+        "oauth1",
+        "quickbooks",
+        "intuit"
+    ],
     "authors": [
         {
             "name": "Vishnu",
