@@ -20,4 +20,6 @@ $temporaryCredentials = $intuitClient->getTemporaryCredentials();
 $_SESSION['temporary_credentials'] = serialize($temporaryCredentials);
 $authurl = $intuitClient->getAuthorizationUrl($temporaryCredentials);
 
+echo "<a href='".$authurl."'>Connect to Quickbooks Account</a>";
+
 ```
